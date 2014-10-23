@@ -1,0 +1,11 @@
+C:\Users\suzui.d\Desktop\Game Projects\JumpyEscape\20141011\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\suzui.d\Desktop\Game Projects\JumpyEscape\20141011\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\suzui.d\Desktop\Game Projects\JumpyEscape\20141011\Temp\bin\Debug\UnityEditor.dll
+C:\Users\suzui.d\Desktop\Game Projects\JumpyEscape\20141011\Temp\bin\Debug\UnityEngine.dll
+C:\Users\suzui.d\Desktop\Game Projects\JumpyEscape\20141011\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\suzui.d\Desktop\Game Projects\JumpyEscape\20141011\Temp\bin\Debug\nunit.framework.dll
+C:\Users\suzui.d\Desktop\Game Projects\JumpyEscape\20141011\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\suzui.d\Desktop\Game Projects\JumpyEscape\20141011\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\suzui.d\Desktop\Game Projects\JumpyEscape\20141011\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+C:\Users\suzui.d\Desktop\Game Projects\JumpyEscape\20141011\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\suzui.d\Desktop\Game Projects\JumpyEscape\20141011\obj\Debug\Assembly-CSharp-firstpass.pdb
