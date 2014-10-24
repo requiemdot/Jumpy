@@ -3,11 +3,12 @@ using System.Collections;
 
 public class Shelf : MonoBehaviour {
 
-	public Ball ball;
+	Ball m_Ball;
 	// Use this for initialization
 	void Start () 
 	{
-
+        if (m_Ball == null)
+            m_Ball = GameObject.Find("Ball").GetComponent<Ball>();
 	}
 	
 	// Update is called once per frame
@@ -22,9 +23,9 @@ public class Shelf : MonoBehaviour {
 		Vector2 inPos = inCollider.transform.position;
 		Vector2 pos = this.transform.position;
 		if(pos.y > inPos.y)
-			ball.OnCeiling();
+            m_Ball.OnCeiling();
 		else
-			ball.OnGround();
+            m_Ball.OnGround();
 	}
 
 	void ToLeft(){
